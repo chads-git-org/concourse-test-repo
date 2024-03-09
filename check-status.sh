@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source progress_bar.sh
+#source progress_bar.sh
 
 ping_result=$(ping -c 4 localhost)
 
